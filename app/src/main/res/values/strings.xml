@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">商品信息管理</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_template">template</string>
+</resources>
